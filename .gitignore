@@ -28,3 +28,6 @@
 !LICENSES/*.txt
 
 workdir/main
+docker-compose.yaml
+Dockerfile
+run_dev_container.cmd
